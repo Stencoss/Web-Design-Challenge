@@ -1,0 +1,13 @@
+<style>
+    :root {
+        --bs-primary: brown;
+    }
+
+    .bg-primary {
+        background-color: var(--bs-primary) !important;
+    }
+
+    .nav-item.dropdown .dropdown-item:active {
+        background-color: green !important;
+    }
+</style>
